@@ -3,18 +3,18 @@
   "bot-account": {
     "username": "imgonnacream",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "Minecartbois.aternos.me",
     "port": 58759,
-    "version": "",
+    "version": 1.21.11,
     "try-creative": false
   },
   "position": {
     "enabled": true,
     "x": 0,
-    "y": 100,
+    "y": 0,
     "z": 0
   },
   "utils": {
