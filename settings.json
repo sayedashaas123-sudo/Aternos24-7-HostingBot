@@ -13,14 +13,14 @@
   },
   "position": {
     "enabled": true,
-    "x": 100,
+    "x": 0,
     "y": 100,
-    "z": 100
+    "z": 0
   },
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "sayedashaas"
     },
     "anti-afk": {
       "enabled": true,
