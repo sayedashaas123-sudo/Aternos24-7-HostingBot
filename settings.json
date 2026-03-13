@@ -1,21 +1,21 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "ZikrChommu",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
-    "ip": "fangtooth.aternos.host",
+    "ip": "Minecartbois.aternos.me",
     "port": 58759,
-    "version": "",
+    "version": "1.21.11"
     "try-creative": false
   },
   "position": {
     "enabled": true,
-    "x": 0,
-    "y": 0,
-    "z": 0
+    "x": 100,
+    "y": 100,
+    "z": 100
   },
   "utils": {
     "auto-auth": {
